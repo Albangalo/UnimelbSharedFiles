@@ -75,6 +75,11 @@ Main Things
 
 class
 -----
+the "blueprint" of an object, containing variables and subroutine "methods" common to all instances of itself. (caution: informal definitions)
+ - concrete class
+    + can instantiate objects of this type
+ - abstract class
+    + abstract classes may not be instantiated: they must act as superclasses
 
 object
 -----
